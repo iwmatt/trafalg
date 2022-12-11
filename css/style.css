@@ -101,7 +101,7 @@ body {
   height: 115px;
   position: absolute;
   left: -200px;
-  background-image: url(..img/virtual-decor.svg);
+  background-image: url(img/virtual-decor.svg);
 }
 
 .virtual__info {
@@ -182,7 +182,7 @@ body {
   right: 10px;
   width: 132px;
   height: 115px;
-  background: url(..img/services-decor-dots.svg);
+  background: url(img/services-decor-dots.svg);
   z-index: -1;
 }
 .services__content::after {
@@ -192,7 +192,7 @@ body {
   left: -360px;
   width: 945px;
   height: 619px;
-  background: url(..img/services-decor-large.svg);
+  background: url(img/services-decor-large.svg);
   z-index: -1;
 }
 
@@ -249,7 +249,7 @@ body {
   position: absolute;
   top: 50%;
   right: 0;
-  background-image: url(..img/virtual-decor.svg);
+  background-image: url(img/virtual-decor.svg);
 }
 
 .mobile-app__info {
@@ -342,7 +342,7 @@ body {
   right: 32px;
   width: 132px;
   height: 115px;
-  background: url(..img/swiper-decor-right.png);
+  background: url(img/swiper-decor-right.png);
 }
 .customer__quote-content-wrapper::before {
   content: "";
@@ -351,7 +351,7 @@ body {
   left: -49px;
   width: 132px;
   height: 115px;
-  background: url(..img/swiper-decor-left.png);
+  background: url(img/swiper-decor-left.png);
   z-index: -1;
 }
 
